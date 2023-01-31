@@ -1,5 +1,5 @@
 # Simple-Hotstar-Clone
-About This is my Assignment project name Hotstar-clone in this project we can search for any movie and we can see all details about that movie for searching I have used Debouncing.
+About This is my Assignment project name Hotstar-clone in this project we can search for any movie and we can see all details about that movie for searching I have used Debouncing..
 
 
 
