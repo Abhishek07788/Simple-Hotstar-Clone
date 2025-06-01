@@ -1,16 +1,21 @@
-# Simple-Hotstar-Clone
-About This is my Assignment project name Hotstar-clone in this project we can search for any movie and we can see all details about that movie for searching I have used Debouncing..
+# 🎬 Simple Hotstar Clone
 
+A basic Hotstar-like web application where users can **search for movies** and view their details. This project features **debounced search**, clean UI, and real-time data fetching using APIs.
 
+---
 
-![Screenshot (228)](https://user-images.githubusercontent.com/104199818/203497830-fa67c1f5-b843-46af-9b52-4bfed5763cf6.png)
+## 📌 About
 
+This is a personal assignment project named **Hotstar Clone**.  
+Users can:
 
-![Screenshot (229)](https://user-images.githubusercontent.com/104199818/203498249-4a03fb11-dd5e-40e0-a309-0cb20e80d192.png)
+- 🔍 Search for any movie using a debounced input
+- 📄 View detailed information about the selected movie
+- 📱 Enjoy a clean and responsive interface
 
+---
 
-![Screenshot (231)](https://user-images.githubusercontent.com/104199818/203498174-82e382ea-896b-43a7-aab8-ddc42d19358d.png)
+## ⚙️ Key Features
 
-
-![Screenshot (232)](https://user-images.githubusercontent.com/104199818/203498571-e23728ed-a85e-4227-ac3d-9479174241a2.png)
-
+- 🎯 **Movie Search** with debounce (to reduce API calls)
+- 📝 **Detailed**
