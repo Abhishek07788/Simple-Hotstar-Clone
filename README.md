@@ -19,3 +19,4 @@ Users can:
 
 - 🎯 **Movie Search** with debounce (to reduce API calls)
 - 📝 **Detailed**
+
